@@ -7,14 +7,20 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Para rodar o sevidor web
+## Sobre o projeto
+
+- Meu primeiro código utilizando laravel 10
+- O projeto busca servir como um gestor de tarefa, permitindo os usuários cadastrados no banco de dados criarem e editarem suas tarefas
+
+## Vamos testar o servidor?
 
 - php artisan serve
 - php artisan db:seed --class=UsersSeeder
 
-## Login
+## Credenciais básicas para o login
 
 user = 'user1'
+
 password = '1234'
 
 
