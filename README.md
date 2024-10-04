@@ -6,8 +6,9 @@
 - O projeto busca servir como um gestor de tarefa, permitindo os usuários cadastrados no banco de dados criarem e editarem suas tarefas
 
 ![alt text](login.png "Tela de login")
-![alt text](main.png "Tela de login")
-## Vamos testar o servidor?
+![alt text](main.png "Tela principal")
+
+## Vamos testar?
 
 - php artisan serve
 - php artisan db:seed --class=UsersSeeder
