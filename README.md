@@ -3,7 +3,7 @@
 ## Sobre o projeto
 
 - Meu primeiro código utilizando laravel 10
-- O projeto busca servir como um gestor de tarefa, permitindo os usuários cadastrados no banco de dados criarem e editarem suas tarefas
+- O projeto busca servir como um gestor de tarefas, permitindo os usuários cadastrados no banco de dados criarem e editarem suas tarefas
 
 ![alt text](login.png "Tela de login")
 ![alt text](main.png "Tela principal")
