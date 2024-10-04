@@ -7,6 +7,7 @@
 
 ![alt text](login.png "Tela de login")
 ![alt text](main.png "Tela principal")
+![alt text](edit.png "Tela de edicao")
 
 ## Vamos testar?
 
